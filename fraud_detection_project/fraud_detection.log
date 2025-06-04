@@ -1,0 +1,17 @@
+2025-04-01 16:19:16,649 - INFO - Starting fraud detection pipeline
+2025-04-01 16:27:53,001 - INFO - Starting fraud detection pipeline
+2025-04-01 16:31:21,150 - INFO - Starting fraud detection pipeline
+2025-04-01 16:35:29,664 - INFO - Starting fraud detection pipeline
+2025-04-01 16:35:31,659 - INFO - Data preprocessing completed
+2025-04-01 16:35:31,729 - WARNING - From C:\Users\shrey\Desktop\Project\fraud_detection_project\env\Lib\site-packages\keras\src\backend.py:1398: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-01 16:35:31,910 - WARNING - From C:\Users\shrey\Desktop\Project\fraud_detection_project\env\Lib\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2025-04-01 16:35:32,378 - WARNING - From C:\Users\shrey\Desktop\Project\fraud_detection_project\env\Lib\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2025-04-01 16:38:08,780 - WARNING - From C:\Users\shrey\Desktop\Project\fraud_detection_project\env\Lib\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2025-04-01 16:40:50,437 - INFO - Model training completed
+2025-04-01 16:41:05,687 - INFO - Detected 28432 anomalies
+2025-04-01 16:41:20,450 - INFO - Model accuracy: 0.9998
+2025-04-01 16:41:20,450 - INFO - Model achieved 95%+ accuracy!
